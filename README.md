@@ -5,16 +5,16 @@
 <img alt='' title='BootCamp' src='.github/bootcamp.png' />
 
 <p align='center'>
-  <img alt='GitHub language count' src='https://img.shields.io/github/languages/count/olimpiossdx/Nivel-1-desafio-backend'>
+  <img alt='GitHub language count' src='https://img.shields.io/github/languages/count/olimpiossdx/Nivel-1-desafio-Conceitos-do-React-Native'>
 
-  <img alt='Repository size' src='https://img.shields.io/github/repo-size/olimpiossdx/Nivel-1-desafio-backend'>
+  <img alt='Repository size' src='https://img.shields.io/github/repo-size/olimpiossdx/Nivel-1-desafio-Conceitos-do-React-Native'>
   
   <a href='https://github.com/olimpiossdx/omniStack/commits/master'>
-    <img alt='GitHub last commit' src='https://img.shields.io/github/last-commit/olimpiossdx/Nivel-1-desafio-backend'>
+    <img alt='GitHub last commit' src='https://img.shields.io/github/last-commit/olimpiossdx/Nivel-1-desafio-Conceitos-do-React-Native'>
   </a>
 
   <a href='https://github.com/olimpiossdx/omniStack/10_semana/issues'>
-    <img alt='Repository issues' src='https://img.shields.io/github/issues/olimpiossdx/Nivel-1-desafio-backend'>
+    <img alt='Repository issues' src='https://img.shields.io/github/issues/olimpiossdx/Nivel-1-desafio-Conceitos-do-React-Native'>
   </a>
 
   <img alt='License' src='https://img.shields.io/badge/license-MIT-brightgreen'>
